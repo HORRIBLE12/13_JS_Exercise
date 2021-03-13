@@ -3,17 +3,17 @@
 
 // This function should return Spider-Man
 function getSpiderMan(members) {
-
+return members[2]
 }
 
 // This function should return Captian America
 function getCaptainAmerica(members) {
-
+return members[4]
 }
 
 // This function should return Scarlet Witch
 function getScarletWitch(members) {
-
+return members[5]
 }
 
 
